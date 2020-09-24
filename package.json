@@ -1,0 +1,41 @@
+{
+  "name": "red_tetris",
+  "version": "0.0.1",
+  "author": "kmatjeke",
+  "license": "MIT",
+  "scripts": {
+    "start-client": "npx react-scripts start",
+    "start-server": "npx nodemon src/server/index.js",
+    "build": "npx react-scripts build"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "styled-components": "^5.1.1",
+    "yarn": "^1.22.4"
+  },
+  "devDependencies": {
+    "braces": "^3.0.2",
+    "lodash": "^4.17.19"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
