@@ -36,7 +36,7 @@ Type:
 $ npm run  start-server
 ```
 
-It launches a node.js server listening for socket.io connections, that is wired to receive `ping` messages and answered to … `pong`.
+It launches a node.js server listening for socket.io connections, runs on http://localhost:5000/
 
 #### Launch Client Side
 
