@@ -5,11 +5,15 @@ Creating a multi-player tetris using node react and socket io.
 ### Tutorials followed
 
 Channel: Weibenfalk
+
 1.https://www.youtube.com/playlist?list=PL0jpcQ5lO0nEH2BpPmJhePz_urgyAljFB
 
 Channel: Meth Meth Method
+
 2.https://www.youtube.com/watch?v=H2aW5V46khA&t=112s
+
 3.https://youtu.be/JJo5JpbuTTs
+
 4.https://youtu.be/Zdr6SJZC9ao
 
 
