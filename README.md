@@ -42,4 +42,4 @@ The url format is "http://localhost:3000/#RoomName[PlayerName]", for example:
 http://localhost:3000/#room1[koketso]
 ```
 
-Enjoy playing red tetris \(0_0)/
+Enjoy playing red tetris (0_0)/
